@@ -1,5 +1,7 @@
 ## IPSC-translation
 
+**本项目将会迁移至 [OI-problem-collection](https://github.com/SFOI-Team/OI-problem-collection)，该仓库将不再更新。**
+
 ### 什么是 IPSC？
 
 IPSC（Internet Problem Solving Contest），是一个网络解题比赛。
